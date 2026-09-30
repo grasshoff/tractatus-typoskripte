@@ -1,0 +1,286 @@
+{
+ "slug": "tractatus-typoskripte",
+ "facts": {
+  "pages_total": {
+   "value": 473,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "done_total": {
+   "value": 473,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "open_total": {
+   "value": 0,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "year_print": {
+   "value": 2003,
+   "source": "bibliography.yaml (imprint)"
+  },
+  "isbn": {
+   "value": "3-211-83782-5",
+   "source": "bibliography.yaml (imprint)"
+  },
+  "pages_commentary": {
+   "value": 119,
+   "source": "page_classes.yaml ranges (Inhaltsverzeichnis, PDF p. 7)"
+  },
+  "done_commentary": {
+   "value": 119,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "blank_commentary": {
+   "value": 5,
+   "source": "page_classes.yaml blank_pages"
+  },
+  "p_commentary": {
+   "value": 3,
+   "source": "page_classes.yaml ranges"
+  },
+  "dels_commentary": {
+   "value": 0,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (del elements)"
+  },
+  "adds_commentary": {
+   "value": 0,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (add elements)"
+  },
+  "unclear_commentary": {
+   "value": 0,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (unclear elements)"
+  },
+  "words_commentary": {
+   "value": 59417,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "pages_ts204": {
+   "value": 62,
+   "source": "page_classes.yaml ranges (Inhaltsverzeichnis, PDF p. 7)"
+  },
+  "done_ts204": {
+   "value": 62,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "blank_ts204": {
+   "value": 1,
+   "source": "page_classes.yaml blank_pages"
+  },
+  "p_ts204": {
+   "value": 123,
+   "source": "page_classes.yaml ranges"
+  },
+  "dels_ts204": {
+   "value": 55,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (del elements)"
+  },
+  "adds_ts204": {
+   "value": 51,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (add elements)"
+  },
+  "unclear_ts204": {
+   "value": 9,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (unclear elements)"
+  },
+  "words_ts204": {
+   "value": 19190,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "pages_ts202": {
+   "value": 80,
+   "source": "page_classes.yaml ranges (Inhaltsverzeichnis, PDF p. 7)"
+  },
+  "done_ts202": {
+   "value": 80,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "blank_ts202": {
+   "value": 0,
+   "source": "page_classes.yaml blank_pages"
+  },
+  "p_ts202": {
+   "value": 185,
+   "source": "page_classes.yaml ranges"
+  },
+  "dels_ts202": {
+   "value": 151,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (del elements)"
+  },
+  "adds_ts202": {
+   "value": 107,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (add elements)"
+  },
+  "unclear_ts202": {
+   "value": 34,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (unclear elements)"
+  },
+  "words_ts202": {
+   "value": 19623,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "pages_ts203": {
+   "value": 58,
+   "source": "page_classes.yaml ranges (Inhaltsverzeichnis, PDF p. 7)"
+  },
+  "done_ts203": {
+   "value": 58,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "blank_ts203": {
+   "value": 0,
+   "source": "page_classes.yaml blank_pages"
+  },
+  "p_ts203": {
+   "value": 265,
+   "source": "page_classes.yaml ranges"
+  },
+  "dels_ts203": {
+   "value": 16,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (del elements)"
+  },
+  "adds_ts203": {
+   "value": 9,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (add elements)"
+  },
+  "unclear_ts203": {
+   "value": 1,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (unclear elements)"
+  },
+  "words_ts203": {
+   "value": 18724,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "pages_korr_en": {
+   "value": 84,
+   "source": "page_classes.yaml ranges (Inhaltsverzeichnis, PDF p. 7)"
+  },
+  "done_korr_en": {
+   "value": 84,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "blank_korr_en": {
+   "value": 0,
+   "source": "page_classes.yaml blank_pages"
+  },
+  "p_korr_en": {
+   "value": 323,
+   "source": "page_classes.yaml ranges"
+  },
+  "dels_korr_en": {
+   "value": 1043,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (del elements)"
+  },
+  "adds_korr_en": {
+   "value": 1078,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (add elements)"
+  },
+  "unclear_korr_en": {
+   "value": 45,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (unclear elements)"
+  },
+  "words_korr_en": {
+   "value": 22039,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "pages_korr_de": {
+   "value": 67,
+   "source": "page_classes.yaml ranges (Inhaltsverzeichnis, PDF p. 7)"
+  },
+  "done_korr_de": {
+   "value": 67,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "blank_korr_de": {
+   "value": 0,
+   "source": "page_classes.yaml blank_pages"
+  },
+  "p_korr_de": {
+   "value": 407,
+   "source": "page_classes.yaml ranges"
+  },
+  "dels_korr_de": {
+   "value": 261,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (del elements)"
+  },
+  "adds_korr_de": {
+   "value": 189,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (add elements)"
+  },
+  "unclear_korr_de": {
+   "value": 10,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (unclear elements)"
+  },
+  "words_korr_de": {
+   "value": 20461,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "plates_total": {
+   "value": 351,
+   "source": "page_classes.yaml ranges"
+  },
+  "plates_done": {
+   "value": 351,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "dels_total": {
+   "value": 1526,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "adds_total": {
+   "value": 1434,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "adds_hand_ink": {
+   "value": 1374,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (add@hand)"
+  },
+  "adds_hand_pencil": {
+   "value": 53,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (add@hand)"
+  },
+  "adds_hand_typed": {
+   "value": 0,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (add@hand)"
+  },
+  "adds_hand_none": {
+   "value": 7,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (add without hand)"
+  },
+  "pages_kimi": {
+   "value": 422,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "pages_gemini": {
+   "value": 42,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "pages_no_ocr": {
+   "value": 9,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "review_required": {
+   "value": 38,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "review_agreed": {
+   "value": 426,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml"
+  },
+  "blank_total": {
+   "value": 7,
+   "source": "page_classes.yaml blank_pages"
+  },
+  "folio_max_ts204": {
+   "value": null,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (caption in footer)"
+  },
+  "folio_max_ts202": {
+   "value": 74,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (caption in footer)"
+  },
+  "folio_max_ts203": {
+   "value": null,
+   "source": "tractatus-typoskripte/GrasshoffLampert2003/pages/page_*/page_*.xml (caption in footer)"
+  }
+ },
+ "notes": []
+}
